@@ -1,6 +1,6 @@
 直接下载使用，在需要的页面的引入组件即可。
-
-
+默认监听输入事件
+````
 /**
  * @Description:
  * @author Conky Liu
@@ -49,3 +49,4 @@ export default class index extends Component {
         )
     }
 }
+````
